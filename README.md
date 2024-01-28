@@ -1,6 +1,6 @@
 # HungerHub
 
-<h1>Key Features</h1>
+###Key Features
 
 <p>Home Page (Restaurents card)</p>
 <img src="https://github.com/dvverma03/TheFOODIES/assets/116081426/b8963fef-f8eb-4b0f-9cbb-ddaeb8467a46">
