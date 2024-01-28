@@ -1,4 +1,4 @@
-# HungerHub
+# TheFOODIES
 
 <h3>Key Features</h3>
 <p>{Home page, search bar, restaurent details page, Menu category, menu items, Cart , about, contact page , form validation}</p>
