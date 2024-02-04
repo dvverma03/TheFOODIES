@@ -31,8 +31,9 @@
 <img src="https://github.com/dvverma03/TheFOODIES/assets/116081426/ab80c86f-0e83-4dec-a695-d5ab857a60e1">
 
 <h4>Contact Page</h4>
-<img src="https://github.com/dvverma03/TheFOODIES/assets/116081426/0db44f02-389c-4700-a85f-3a35288115a0">
+<img src="https://github.com/dvverma03/TheFOODIES/assets/116081426/61669d62-a09a-41b6-8d29-f504ff56cee6">
 
 <h4>Form Validation</h4>
-<img src="https://github.com/dvverma03/TheFOODIES/assets/116081426/0e7208e7-f42d-4fd8-9097-478be0eeb4d3">
+<img src="https://github.com/dvverma03/TheFOODIES/assets/116081426/8e00ab1d-970f-4f62-8bce-010b1590c126">
+
 
